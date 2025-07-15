@@ -1,0 +1,14 @@
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+x:\Github\gordilloedwin\TestBed\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
